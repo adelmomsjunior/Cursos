@@ -1,4 +1,4 @@
-# Cursos Dio
+# Cursos
 
 <details>
   <summary>Localiza .NET</summary>
