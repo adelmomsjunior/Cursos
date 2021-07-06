@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\junin\\Desktop\\Solução de problemas com .NET\\desafio2\\desafio2.csproj",
+      "projectUniqueName": "c:\\Users\\junin\\Documents\\PastaGitHub\\Cursos\\.NETfundamentals\\Solução de problemas com .NET\\desafio2\\desafio2.csproj",
       "projectName": "desafio2",
-      "projectPath": "C:\\Users\\junin\\Desktop\\Solução de problemas com .NET\\desafio2\\desafio2.csproj",
+      "projectPath": "c:\\Users\\junin\\Documents\\PastaGitHub\\Cursos\\.NETfundamentals\\Solução de problemas com .NET\\desafio2\\desafio2.csproj",
       "packagesPath": "C:\\Users\\junin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\junin\\Desktop\\Solução de problemas com .NET\\desafio2\\obj\\",
+      "outputPath": "c:\\Users\\junin\\Documents\\PastaGitHub\\Cursos\\.NETfundamentals\\Solução de problemas com .NET\\desafio2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\junin\\AppData\\Roaming\\NuGet\\NuGet.Config"

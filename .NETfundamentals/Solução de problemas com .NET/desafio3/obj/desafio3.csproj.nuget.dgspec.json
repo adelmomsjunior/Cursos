@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\junin\\Desktop\\Solução de problemas com .NET\\desafio3\\desafio3.csproj": {}
+    "C:\\Users\\junin\\Documents\\PastaGitHub\\Cursos\\.NETfundamentals\\Solução de problemas com .NET\\desafio3\\desafio3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\junin\\Desktop\\Solução de problemas com .NET\\desafio3\\desafio3.csproj": {
+    "C:\\Users\\junin\\Documents\\PastaGitHub\\Cursos\\.NETfundamentals\\Solução de problemas com .NET\\desafio3\\desafio3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\junin\\Desktop\\Solução de problemas com .NET\\desafio3\\desafio3.csproj",
+        "projectUniqueName": "C:\\Users\\junin\\Documents\\PastaGitHub\\Cursos\\.NETfundamentals\\Solução de problemas com .NET\\desafio3\\desafio3.csproj",
         "projectName": "desafio3",
-        "projectPath": "C:\\Users\\junin\\Desktop\\Solução de problemas com .NET\\desafio3\\desafio3.csproj",
+        "projectPath": "C:\\Users\\junin\\Documents\\PastaGitHub\\Cursos\\.NETfundamentals\\Solução de problemas com .NET\\desafio3\\desafio3.csproj",
         "packagesPath": "C:\\Users\\junin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\junin\\Desktop\\Solução de problemas com .NET\\desafio3\\obj\\",
+        "outputPath": "C:\\Users\\junin\\Documents\\PastaGitHub\\Cursos\\.NETfundamentals\\Solução de problemas com .NET\\desafio3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\junin\\AppData\\Roaming\\NuGet\\NuGet.Config"
