@@ -58,7 +58,7 @@
   <summary>HTML Web Developer</summary>
   <div>
     <h5>Recriando páginas HTML</h5>
-    &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/HTML%20Web%20Developer/Instagram">Instagram</a><br/>
-    &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/HTML%20Web%20Developer/Netflix">Netflix</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/HTML%20Web%20Developer/Recriando%20p%C3%A1ginas%20HTML/Instagram">Instagram</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/HTML%20Web%20Developer/Recriando%20p%C3%A1ginas%20HTML/Netflix">Netflix</a><br/>
   </div>
 </details>
