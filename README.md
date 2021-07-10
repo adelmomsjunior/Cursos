@@ -61,4 +61,10 @@
     &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/HTML%20Web%20Developer/Recriando%20p%C3%A1ginas%20HTML/Instagram">Instagram</a><br/>
     &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/HTML%20Web%20Developer/Recriando%20p%C3%A1ginas%20HTML/Netflix">Netflix</a><br/>
   </div>
+  <div>
+    <h5>Introdução a Programação com JavaScript</h5>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/HTML%20Web%20Developer/Recriando%20p%C3%A1ginas%20HTML/Instagram">Visita na feira</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/HTML%20Web%20Developer/Recriando%20p%C3%A1ginas%20HTML/Netflix">Multiplicação simples</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/HTML%20Web%20Developer/Recriando%20p%C3%A1ginas%20HTML/Netflix">Folha de pagamento</a><br/>
+  </div>
 </details>
