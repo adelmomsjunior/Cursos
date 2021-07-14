@@ -61,6 +61,7 @@
     &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/HTML%20Web%20Developer/Recriando%20p%C3%A1ginas%20HTML/Instagram-clone">Instagram</a><br/>
     &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/HTML%20Web%20Developer/Recriando%20p%C3%A1ginas%20HTML/Netflix-clone">Netflix</a><br/>
     &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/HTML%20Web%20Developer/Recriando%20p%C3%A1ginas%20HTML/UsandoBootstrap">Bootstrap</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/HTML%20Web%20Developer/Recriando%20p%C3%A1ginas%20HTML/SnakeGame">Jogo da Cobrinha</a><br/>
   </div>
   <div>
     <h5>Introdução a Programação com JavaScript</h5>
