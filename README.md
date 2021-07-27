@@ -70,3 +70,11 @@
     &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/HTML%20Web%20Developer/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/Desafio3.js">Folha de pagamento</a><br/>
   </div>
 </details>
+
+<details>
+  <summary>JavaScript Game Developer</summary>
+  <div>
+    <h5>Games</h5>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/HTML%20Web%20Developer/Recriando%20p%C3%A1ginas%20HTML/Instagram-clone">Jogo do Helicóptero</a><br/>
+    </div>
+</details>
