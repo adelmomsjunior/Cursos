@@ -4,23 +4,23 @@
   <summary>Localiza .NET</summary>
   <div>
     <h5>Solução de problemas em C#</h5>
-    &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/Localiza.NET/Solu%C3%A7%C3%A3o%20de%20problemas%20em%20C%23/desafio1/Program.cs">Consumo Médio do Automóvel</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/Localiza.NET/Solu%C3%A7%C3%A3o%20de%20problemas%20em%20C%23/desafio1/Program.cs">Consumo médio do automóvel</a><br/>
     &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/Localiza.NET/Solu%C3%A7%C3%A3o%20de%20problemas%20em%20C%23/desafio2/Program.cs">DDD</a><br/>
-    &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/Localiza.NET/Solu%C3%A7%C3%A3o%20de%20problemas%20em%20C%23/desafio3/Program.cs">Notas e Moedas</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/Localiza.NET/Solu%C3%A7%C3%A3o%20de%20problemas%20em%20C%23/desafio3/Program.cs">Notas e moedas</a><br/>
   </div>
   <div>
     <h5>Criando uma aplicação .NET</h5>
-    &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/Localiza.NET/Criando%20uma%20aplica%C3%A7%C3%A3o%20.NET/Appbanco/Program.cs">Aplicativo de Transferência Bancária</a><br/>
-    &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/Localiza.NET/Criando%20uma%20aplica%C3%A7%C3%A3o%20.NET/Locadora/Program.cs">Aplicativo de Locadora</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/Localiza.NET/Criando%20uma%20aplica%C3%A7%C3%A3o%20.NET/Appbanco/Program.cs">Aplicativo de transferência bancária</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/Localiza.NET/Criando%20uma%20aplica%C3%A7%C3%A3o%20.NET/Locadora/Program.cs">Aplicativo de locadora</a><br/>
     &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/Localiza.NET/Criando%20uma%20aplica%C3%A7%C3%A3o%20.NET/Api/Program.cs">Api</a><br/>
   </div>
   <div>
     <h5>Desafios aritméticos em C#</h5>
     &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/Localiza.NET/Desafios%20aritm%C3%A9ticos%20em%20C%23/desafio1/Program.cs">Média 1</a><br/>
-    &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/Localiza.NET/Desafios%20aritm%C3%A9ticos%20em%20C%23/desafio2/Program.cs">Crescimento Populacional</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/Localiza.NET/Desafios%20aritm%C3%A9ticos%20em%20C%23/desafio2/Program.cs">Crescimento populacional</a><br/>
     &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/Localiza.NET/Desafios%20aritm%C3%A9ticos%20em%20C%23/desafio3/Program.cs">Bazinga!</a><br/>
-    &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/Localiza.NET/Desafios%20aritm%C3%A9ticos%20em%20C%23/desafio4/Program.cs">Tempo de um Evento</a><br/>
-    &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/Localiza.NET/Desafios%20aritm%C3%A9ticos%20em%20C%23/desafio5/Program.cs">Comunicação em Piralândia</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/Localiza.NET/Desafios%20aritm%C3%A9ticos%20em%20C%23/desafio4/Program.cs">Tempo de um evento</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/Localiza.NET/Desafios%20aritm%C3%A9ticos%20em%20C%23/desafio5/Program.cs">Comunicação em piralândia</a><br/>
   </div>
   <div>
     <h5>Praticando programação em C#</h5>
@@ -36,7 +36,7 @@
     <h5>Introdução a Programação com C#</h5>
     &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/.NETfundamentals/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/desafio1/Program.cs">Dividindo X por Y</a><br/>
     &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/.NETfundamentals/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/desafio2/Program.cs">Distância</a><br/>
-    &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/.NETfundamentals/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/desafio3/Program.cs">Quanta Mandioca?</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/.NETfundamentals/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/desafio3/Program.cs">Quanta mandioca?</a><br/>
   </div>
   <div>
     <h5>Introdução a Programação com .NET</h5>
@@ -46,8 +46,8 @@
   </div>
   <div>
     <h5>Solução de problemas com .NET</h5>
-    &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/.NETfundamentals/Solu%C3%A7%C3%A3o%20de%20problemas%20com%20.NET/desafio1/Program.cs">Programa para Validação de Notas</a><br/>
-    &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/.NETfundamentals/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/desafio3/Program.cs">Quanta Mandioca?</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/.NETfundamentals/Solu%C3%A7%C3%A3o%20de%20problemas%20com%20.NET/desafio1/Program.cs">Programa para validação de notas</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/.NETfundamentals/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/desafio3/Program.cs">Quanta mandioca?</a><br/>
     &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/Localiza.NET/Praticando%20programa%C3%A7%C3%A3o%20em%20C%23/desafio2/Program.cs">Compras no supermercado</a><br/>
     &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/.NETfundamentals/Solu%C3%A7%C3%A3o%20de%20problemas%20com%20.NET/desafio2/Program.cs">Validador de senhas com requisitos</a><br/>
     &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/.NETfundamentals/Solu%C3%A7%C3%A3o%20de%20problemas%20com%20.NET/desafio3/Program.cs">Fila de banco</a><br/>
@@ -61,7 +61,7 @@
     &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/HTML%20Web%20Developer/Recriando%20p%C3%A1ginas%20HTML/Instagram-clone">Instagram</a><br/>
     &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/HTML%20Web%20Developer/Recriando%20p%C3%A1ginas%20HTML/Netflix-clone">Netflix</a><br/>
     &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/HTML%20Web%20Developer/Recriando%20p%C3%A1ginas%20HTML/UsandoBootstrap">Bootstrap</a><br/>
-    &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/HTML%20Web%20Developer/Recriando%20p%C3%A1ginas%20HTML/SnakeGame">Jogo da Cobrinha</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/HTML%20Web%20Developer/Recriando%20p%C3%A1ginas%20HTML/SnakeGame">Jogo da cobrinha</a><br/>
   </div>
   <div>
     <h5>Introdução a Programação com JavaScript</h5>
@@ -75,7 +75,32 @@
   <summary>JavaScript Game Developer</summary>
   <div>
     <h5>Games</h5>
-    &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/JavaScript%20Game%20Developer/Games/HelicopterGame">Jogo do Helicóptero</a><br/>
-    &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/JavaScript%20Game%20Developer/Games/Genius">Jogo Genius</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/JavaScript%20Game%20Developer/Games/Helicopter">Jogo do helicóptero</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/JavaScript%20Game%20Developer/Games/Genius">Jogo genius</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/JavaScript%20Game%20Developer/Games/Dinosauro">Jogo do dinosauro</a><br/>
+  </div>
+</details>
+
+<details>
+  <summary>Decola Tech Avanade</summary>
+  <div>
+    <h5>Primeiros desafios Matemáticos em C#</h5>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/JavaScript%20Game%20Developer/Games/Helicopter">Soma simples</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/Localiza.NET/Solu%C3%A7%C3%A3o%20de%20problemas%20em%20C%23/desafio2/Program.cs">DDD</a><br/>
+  <div>
+    <h5>Introdução a Resolução de Desafios com C#</h5>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/JavaScript%20Game%20Developer/Games/Helicopter">Múltiplos</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/JavaScript%20Game%20Developer/Games/Genius">Números ímpares</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/JavaScript%20Game%20Developer/Games/Dinosauro">Conversão de tempo</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/JavaScript%20Game%20Developer/Games/Dinosauro">tempo do Dobby</a><br/>
+  </div>
+  <div>
+    <h5>Desafios numéricos em C#</h5>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/JavaScript%20Game%20Developer/Games/Helicopter">Tipo de combustivel</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/JavaScript%20Game%20Developer/Games/Genius">O maior</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/JavaScript%20Game%20Developer/Games/Dinosauro">Validação de nota</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/JavaScript%20Game%20Developer/Games/Dinosauro">Tipos de triângulo</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/JavaScript%20Game%20Developer/Games/Dinosauro">Sequência lógica 2</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/Localiza.NET/Praticando%20programa%C3%A7%C3%A3o%20em%20C%23/desafio1/Program.cs">Coordenadas em um ponto</a><br/>
   </div>
 </details>
