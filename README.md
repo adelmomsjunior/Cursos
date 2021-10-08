@@ -103,4 +103,8 @@
     &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/Decola%20Tech%20Avanade/Desafios%20num%C3%A9ricos%20em%20C%23/desafio5/Program.cs">Sequência lógica 2</a><br/>
     &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/Localiza.NET/Praticando%20programa%C3%A7%C3%A3o%20em%20C%23/desafio1/Program.cs">Coordenadas em um ponto</a><br/>
   </div>
+  <div>
+    <h5>Criando um catálogo de jogos usando boas práticas de arquitetura com .NET</h5>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/Decola%20Tech%20Avanade/Criando%20um%20cat%C3%A1logo%20de%20jogos/CatalogoJogos/Program.cs">Locadora de jogos</a><br/>
+  </div>
 </details>
