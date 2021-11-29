@@ -37,6 +37,7 @@ else if (inicio >= final && final <= 96)
 {
     console.log('minguante');
 } 
-else {
+else 
+{
     console.log('cheia');
 }
