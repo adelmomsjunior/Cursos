@@ -140,3 +140,13 @@
     &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/MRV%20Fullstack%20Developer/Programando%20com%20JavaScript%20-%20Iniciante/Desafio3.js">Números impares</a><br/>
   </div>
 </details>
+
+<details>
+  <summary>Eduzz Fullstack Developer</summary>
+  <div>
+    <h5>Resolvendo Desafios Básicos em JavaScript</h5>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/JavaScript%20Game%20Developer/Games/Helicopter">Jogo do helicóptero</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/tree/main/JavaScript%20Game%20Developer/Games/Genius">Jogo genius</a><br/>
+    &nbsp; <a href="https://github.com/theadelmojr/Cursos/blob/main/HTML%20Web%20Developer/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/Desafio3.js">Folha de pagamento</a><br/>
+  </div>
+</details>
